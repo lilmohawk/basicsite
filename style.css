@@ -1,0 +1,48 @@
+header {
+}
+
+header h1 {
+	font-size: 60px;
+	text-align: center;
+}
+
+nav {
+	background-color: grey;
+	color: white;
+}
+
+nav ul{
+	list-style-type: none;
+	margin: 0px;
+	display: flex;
+	justify-content: center;
+}
+
+nav ul li {
+	padding: 10px;
+}
+
+nav ul a {
+	text-decoration: none;
+	color: white;
+}
+
+
+body {
+	margin: 0px;
+}
+
+article {
+	text-align: justify;
+	width: 80%;
+	margin: auto;
+}
+
+figure {
+	max-width: 100%;
+}
+
+figure img {
+	max-width: 100%;
+	height: auto;
+}
